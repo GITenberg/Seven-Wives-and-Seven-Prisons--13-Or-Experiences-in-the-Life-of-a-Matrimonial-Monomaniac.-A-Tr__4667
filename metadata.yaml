@@ -1,0 +1,28 @@
+_repo: Seven-Wives-and-Seven-Prisons--13-Or-Experiences-in-the-Life-of-a-Matrimonial-Monomaniac.-A-Tr__4667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, L. A.
+    alias: Abbott, L.A.
+    birthdate: 1813
+    gutenberg_agent_id: '1537'
+    url: http://www.gutenberg.org/2009/agents/1537
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage customs and rites -- United States'
+- !lcc 'CT'
+- !lcsh 'Divorce -- United States'
+- GITenberg
+title: "Seven Wives and Seven Prisons\r\nOr, Experiences in the Life of a Matrimonial\
+  \ Monomaniac. A True Story"
+url: http://www.gutenberg.org/ebooks/4667
